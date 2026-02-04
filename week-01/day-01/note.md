@@ -11,3 +11,5 @@ Proyek ini mendemonstrasikan pengelolaan database penjualan mulai dari perancang
 1. Jalankan container PostgreSQL:
    ```bash
    docker run --name de-sql -e POSTGRES_USER=user -e POSTGRES_PASSWORD=1234 -e POSTGRES_DB=sales -p 5431:5432 -d postgres:15
+
+   

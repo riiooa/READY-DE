@@ -1,0 +1,7 @@
+# Abaikan virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Abaikan file data yang terlalu besar (opsional)
+*.csv
